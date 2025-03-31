@@ -1,5 +1,8 @@
 # Standalone MP3 Player
 
+![Screenshot 2025-03-31 135758](https://github.com/user-attachments/assets/e89cda98-00b3-4386-a0f5-6868412b6618)
+![Screenshot 2025-03-31 135745](https://github.com/user-attachments/assets/2b216e62-6aea-4055-a205-999712443104)
+
 This project is a **standalone MP3 player** using an MP3 SD card module, Cherry MX switches for media control, a LiPo battery for portability, and a TP4056 charging module. It’s a simple, ad-free way to listen to music from a microSD card without needing any coding or complex setup. Just load music, connect the components, and enjoy!
 
 ### Features:
