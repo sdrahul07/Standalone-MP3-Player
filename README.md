@@ -13,25 +13,26 @@ Here’s a list of the key parts used in building the MP3 player, with links to 
 
 ### 1. **MP3 SD Card Module**
    - **Description**: This is the core module that allows you to play MP3 files from a microSD card. It handles all audio decoding and playback, so there’s no need for additional code or complex setup.
-   - **Link**: [MP3 SD Card Module on AliExpress](https://www.aliexpress.us/item/3256806504625045.html?spm=a2g0o.order_list.order_list_main.29.571c1802PPjZk1&gatewayAdapt=glo2usa)
+   - **Link**: [MP3 SD Card Module on AliExpress]([https://www.aliexpress.us/item/3256806504625045.html?spm=a2g0o.order_list.order_list_main.29.571c1802PPjZk1&gatewayAdapt=glo2usa](https://www.aliexpress.us/item/3256806504625045.html?spm=a2g0o.order_list.order_list_main.77.4c8e194d9vosQF&gatewayAdapt=glo2usa))
 
 ### 2. **Cherry MX Mechanical Switches**
    - **Description**: Cherry MX switches are used for media control buttons, including play/pause, next, previous, and volume control. They provide tactile feedback and a satisfying user experience.
-   - **Link**: [Cherry MX Switches on AliExpress](https://www.aliexpress.com/store/1102696782?spm=a2g0o.order_list.order_list_main.104.571c1802PPjZk1)
-
+   
 ### 3. **LiPo Battery (Salvaged from Nicotine Vape)**
    - **Description**: A rechargeable LiPo battery salvaged from a nicotine vape provides portable power to the MP3 player.
   
 
 ### 4. **TP4056 LiPo Charging Module**
    - **Description**: This module charges the LiPo battery safely, with built-in protection for overcharging and overdischarge.
-   - **Link**: [TP4056 Module on Amazon](https://www.amazon.com/dp/B075RDYMQQ?ref=ppx_yo2ov_dt_b_fed_asin_title)
+   - **Link**: [TP4056 Module on Aliexpress](https://www.aliexpress.us/item/3256805951432581.html?spm=a2g0o.productlist.main.15.1f867ef7Fm7euQ&aem_p4p_detail=202503311151511909936599042420003208703&algo_pvid=0c51f7a6-e80b-40e0-8077-77299e075838&algo_exp_id=0c51f7a6-e80b-40e0-8077-77299e075838-7&pdp_ext_f=%7B%22order%22%3A%22454%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%211.69%211.69%21%21%2112.24%2112.24%21%402101c80217434471117815703e0a25%2112000035928826208%21sea%21US%212492344101%21X&curPageLogUid=OqC47eT556Zf&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202503311151511909936599042420003208703_2))
 
 ### 5. **Toggle Switch**
    - **Description**: A simple toggle switch is used to turn the MP3 player on and off.
+   - **Link**: [Toggle Switch on Amazon](https://www.amazon.com/dp/B075RDYMQQ?ref=ppx_yo2ov_dt_b_fed_asin_title)
 
-### 6. **microSD Card**
-   - **Description**: The microSD card stores the MP3 music files that you will play on the device.
+### 6. **Speaker**
+   - **Description**: Just a enclosed speaker I found on Aliexpess that was compact enough for the projects ( ensure that the one you use is 4Ohm and 3W)
+   - **Link**: [Speaker on Aliexpress](https://www.aliexpress.us/item/3256805513376202.html?spm=a2g0o.order_list.order_list_main.149.4c8e194d9vosQF&gatewayAdapt=glo2usa)
 
 ### 7. **3D Printed Enclosure**
    - **Description**: The components are housed in a custom 3D-printed enclosure, making the device compact and portable.
@@ -46,6 +47,7 @@ Here’s a list of the key parts used in building the MP3 player, with links to 
    - **Cherry MX Switches**: Connect the switches to the designated pins (for play/pause, next track, previous track, volume up/down).
    - **LiPo Battery & TP4056 Module**: Connect the LiPo battery to the TP4056 module. The charging port allows you to recharge the battery.
    - **Power Switch**: Attach the toggle switch to the power input to turn the device on/off.
+   - **Speaker**: Connect the speaker to the MP3 SD Card Module on the provided solder pads.
 
 ### 2. **Load Music onto the microSD Card**
    - Format the microSD card and load your MP3 files onto it.
