@@ -27,7 +27,7 @@ Here’s a list of the key parts used in building the MP3 player, with links to 
 
 ### 4. **TP4056 LiPo Charging Module**
    - **Description**: This module charges the LiPo battery safely, with built-in protection for overcharging and overdischarge.
-   - **Link**: [TP4056 Module on Aliexpress](https://www.aliexpress.us/item/3256805951432581.html?spm=a2g0o.productlist.main.15.1f867ef7Fm7euQ&aem_p4p_detail=202503311151511909936599042420003208703&algo_pvid=0c51f7a6-e80b-40e0-8077-77299e075838&algo_exp_id=0c51f7a6-e80b-40e0-8077-77299e075838-7&pdp_ext_f=%7B%22order%22%3A%22454%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%211.69%211.69%21%21%2112.24%2112.24%21%402101c80217434471117815703e0a25%2112000035928826208%21sea%21US%212492344101%21X&curPageLogUid=OqC47eT556Zf&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202503311151511909936599042420003208703_2))
+   - **Link**: [TP4056 Module on Aliexpress](https://www.aliexpress.us/item/3256805951432581.html?spm=a2g0o.productlist.main.15.1f867ef7Fm7euQ&aem_p4p_detail=202503311151511909936599042420003208703&algo_pvid=0c51f7a6-e80b-40e0-8077-77299e075838&algo_exp_id=0c51f7a6-e80b-40e0-8077-77299e075838-7&pdp_ext_f=%7B%22order%22%3A%22454%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%211.69%211.69%21%21%2112.24%2112.24%21%402101c80217434471117815703e0a25%2112000035928826208%21sea%21US%212492344101%21X&curPageLogUid=OqC47eT556Zf&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202503311151511909936599042420003208703_2)
 
 ### 5. **Toggle Switch**
    - **Description**: A simple toggle switch is used to turn the MP3 player on and off.
