@@ -35,7 +35,7 @@ Here’s a list of the key parts used in building the MP3 player, with links to 
 
 ### 7. **3D Printed Enclosure**
    - **Description**: The components are housed in a custom 3D-printed enclosure, making the device compact and portable.
-   - **File**: STL file for the 3D printed case is available in the repository’s `hardware/` folder.
+   - **File**: STL file for the 3D printed case is available in the repository.
 
 ---
 
@@ -52,7 +52,7 @@ Here’s a list of the key parts used in building the MP3 player, with links to 
    - The MP3 player will automatically detect the files and begin playback from the microSD card once powered on.
 
 ### 3. **Assemble the Enclosure**
-   - Print the 3D enclosure using the provided STL file in the `hardware/` folder.
+   - Print the 3D enclosure using the provided STL files.
    - After printing, assemble the components inside the enclosure, ensuring all buttons and connectors are accessible.
 
 ---
